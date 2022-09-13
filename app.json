@@ -1,5 +1,5 @@
 {
-      "name": "Siesta Robot",
+      "name": "AeroXRobot-2.0",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/566d0f3fb2107bd8ecb27.jpg",  
-   "repository": "https://github.com/shiinobu/https://github.com/shiinobu/SiestaRobot",
+   "repository": "https://github.com/shiinobu/https://github.com/AerodynamicV1Botz/AeroXRobot-2.0",
    "addons": [
           {
          "options": {
